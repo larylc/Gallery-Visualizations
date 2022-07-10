@@ -14,6 +14,10 @@ This is where I will post static data visualizations from my website's gallery.
 Tableau Public: Coming Soon...
 
 
-#### R Visualization 1: "Percentiles Reveal Super Grandmaster Specialties"**
+#### ****R Visualization 1: "Percentiles Reveal Super Grandmaster Specialties"**
 
 ![](https://github.com/larylc/Gallery-Visualizations/blob/main/Percentiles%20Reveal%20GM%20Specialties.png)
+
+#### ****R Visualization 2: "Who Do We See at Need Blind Institutions"**
+
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/Need%20Blind%20Breakdown.png)

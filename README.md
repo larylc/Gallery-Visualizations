@@ -16,4 +16,4 @@ Tableau Public: Coming Soon...
 
 #### R Visualization 1: "Percentiles Reveal Super Grandmaster Specialties"**
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/Percentiles%20Show%20GM%20Specialties.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/Percentiles%20Reveal%20GM%20Specialties.png)

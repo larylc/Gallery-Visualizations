@@ -29,6 +29,6 @@ This is where I will post static data visualizations from my website's gallery.
 
 ![](https://github.com/larylc/Gallery-Visualizations/blob/main/Need%20Blind%20Breakdown.png)
 
-**Data:** You can find the US Department of Education's College ScoreCard [here.](https://collegescorecard.ed.gov/data/) You can find the list of PrepScholar's need blind college list [here](https://blog.prepscholar.com/need-blind-colleges-list). 
+**Data:** You can find the US Department of Education's College Scorecard [here.](https://collegescorecard.ed.gov/data/) You can find the list of PrepScholar's need blind college list [here](https://blog.prepscholar.com/need-blind-colleges-list). 
 
 **Methods:** Only  4 year colleges were considered. When the 2 data sources were merged, approixmately 100 colleges had need blind poliicies, the other 1900 had different financial aid policies. 

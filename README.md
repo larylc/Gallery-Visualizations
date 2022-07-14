@@ -22,7 +22,7 @@ This is where I will post static data visualizations from my website's gallery.
 
 **Data:** The percentiles were calculated using data gathered from the `masters_table(s)` found in this [respository](https://github.com/larylc/Chess-Webscraping-Projects). 
 
-**Methods:** Only chess players that had ratings that were greater than or equal to 2700 were selected. The percentiles only compare the 42 chess players >= 2700 because if other chess masters were included these 42 chess players would all be in the concentrated at the 99th percentile, making it difficult to distinguish their strengths relative to each other. 
+**Methods:** Only chess players that had ratings that were greater than or equal to 2700 were selected. The percentiles only compared the 42 chess players >= 2700 because if other chess masters were included these 42 chess players would all be in the concentrated at the 99th percentile, making it difficult to distinguish their strengths relative to each other. 
 
 
 #### **R Visualization 2: "Who Do We See at Need Blind Institutions"**
@@ -31,4 +31,4 @@ This is where I will post static data visualizations from my website's gallery.
 
 **Data:** You can find the US Department of Education's College ScoreCard [here.](https://collegescorecard.ed.gov/data/) You can find the list of PrepScholar's need blind college list [here](https://blog.prepscholar.com/need-blind-colleges-list). 
 
-**Methods:** Only  4 year colleges were considered. When the 2 data sources were mereged, there were  approixmately 100 were colleges with need blind poliicies, the other 1900 had different financial aid policies. 
+**Methods:** Only  4 year colleges were considered. When the 2 data sources were mereged, approixmately 100 colleges had need blind poliicies, the other 1900 had different financial aid policies. 

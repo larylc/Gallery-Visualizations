@@ -21,7 +21,7 @@ Static data visualizations from my website's gallery.
 
 **Data:** The percentiles were calculated using data gathered from the `masters_table(s)` found in this [repository](https://github.com/larylc/Chess-Webscraping-Projects). The original data is from [FIDE](https://ratings.fide.com/).
 
-**Methods:** Only chess players that had ratings that were greater than or equal to 2700 were selected. The percentiles only compared the 42 chess players >= 2700 because if other chess masters were included these 42 chess players would all be in the concentrated at the 99th percentile, making it difficult to distinguish their strengths relative to each other. 
+**Methods:** Only chess players that had ratings that were greater than or equal to 2700 were selected. The percentiles only compared the 42 chess players >= 2700 because if other chess masters were included these 42 chess players would all be concentrated at the 99th percentile, making it difficult to distinguish their strengths relative to each other. 
 
 
 #### **"Who Do We See Attending Need Blind Colleges"** (R)

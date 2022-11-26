@@ -17,7 +17,7 @@ Static data visualizations from my website's gallery.
 
 #### **"Percentiles Reveal Super Grandmaster Specialties"** (R)
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/supergmplot2.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/supergm2plot.png)
 
 **Data:** The percentiles were calculated using data gathered from the `masters_table(s)` found in this [repository](https://github.com/larylc/Chess-Webscraping-Projects). The original data is from [FIDE](https://ratings.fide.com/).
 

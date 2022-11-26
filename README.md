@@ -27,7 +27,7 @@ This is where I will post static data visualizations from my website's gallery.
 
 #### **R Visualization 2: "Who Do We See at Need Blind Institutions"**
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/Need%20Blind%20Breakdown.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/needblindplot.png)
 
 **Data:** You can find the US Department of Education's College Scorecard [here.](https://collegescorecard.ed.gov/data/) You can find the list of PrepScholar's need blind college list [here](https://blog.prepscholar.com/need-blind-colleges-list). 
 

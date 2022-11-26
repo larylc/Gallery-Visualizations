@@ -37,7 +37,7 @@ Static data visualizations from my website's gallery.
 
 **Data:** Chess data is from the `all_grandmaster_bdates_bplaces_updated.csv` dataset in this [repository](https://github.com/larylc/More-Chess-Webscraped-Data). You can find the general population live monthly birth data from [United Nations Statistics Division's database](http://data.un.org/Data.aspx?q=birth+month&d=POP&f=tableCode%3a55).
 
-**Methods:** Using the montly data gathered from both data sets, a "broad" season variable was created:
+**Methods:** Using the montly data gathered from both datasets, a "broad" season variable was created:
 + Winter Months: January- March
 + Spring Months: April- June
 + Summer Months: July- September

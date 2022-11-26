@@ -7,7 +7,7 @@ Static data visualizations from my website's gallery.
 
 ### Visualizations
 
-#### **"How Seasons Affect Prodigies"** (R)
+#### **"What 125+ Years of Temperatures Tell Us About Weather"** (R)
 
 ![](https://github.com/larylc/Gallery-Visualizations/blob/main/weatherplot.png)
 
@@ -19,7 +19,7 @@ Static data visualizations from my website's gallery.
 
 ![](https://github.com/larylc/Gallery-Visualizations/blob/main/supergmplot.png)
 
-**Data:** The percentiles were calculated using data gathered from the `masters_table(s)` found in this [respository](https://github.com/larylc/Chess-Webscraping-Projects). The original data is from [FIDE](https://fide.com/).
+**Data:** The percentiles were calculated using data gathered from the `masters_table(s)` found in this [repository](https://github.com/larylc/Chess-Webscraping-Projects). The original data is from [FIDE](https://fide.com/).
 
 **Methods:** Only chess players that had ratings that were greater than or equal to 2700 were selected. The percentiles only compared the 42 chess players >= 2700 because if other chess masters were included these 42 chess players would all be in the concentrated at the 99th percentile, making it difficult to distinguish their strengths relative to each other. 
 
@@ -31,3 +31,10 @@ Static data visualizations from my website's gallery.
 **Data:** You can find the US Department of Education's College Scorecard [here.](https://collegescorecard.ed.gov/data/) You can find the list of PrepScholar's need blind college list [here](https://blog.prepscholar.com/need-blind-colleges-list). 
 
 **Methods:** Only  4 year colleges were considered. When the 2 data sources were merged, approixmately 100 colleges had need blind poliicies, the other 1900 had different financial aid policies. 
+
+#### **"Seasonal Births of Grandmasters vs General Population"** (R)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/seasonplot.png)
+
+**Data:** Chess data is from the `all_grandmaster_bdates_bplaces_updated.csv` dataset in this [repository](https://github.com/larylc/More-Chess-Webscraped-Data). You can find the general population live monthly birth data from [United Nations Statistics Division's ](http://data.un.org/Data.aspx?q=birth+month&d=POP&f=tableCode%3a55)
+
+

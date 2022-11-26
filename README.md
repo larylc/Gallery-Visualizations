@@ -9,7 +9,7 @@ Static data visualizations from my website's gallery.
 
 #### **"What 125+ Years of Temperatures Tell Us About Weather"** (R)
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/weatherplot.png | width=100)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/weatherplot.png)
 
 **Data:** Data was web scraped from the [Rutgers Climate Lab Website](https://climate.rutgers.edu/stateclim_v1/nclimdiv/index.php?stn=NJ00&elem=mint#) which gets its data from the [National Centers for Environmental Information nClimDiv dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00005).
 

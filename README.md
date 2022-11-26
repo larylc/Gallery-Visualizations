@@ -35,6 +35,13 @@ Static data visualizations from my website's gallery.
 #### **"Seasonal Births of Grandmasters vs General Population"** (R)
 ![](https://github.com/larylc/Gallery-Visualizations/blob/main/seasonplot.png)
 
-**Data:** Chess data is from the `all_grandmaster_bdates_bplaces_updated.csv` dataset in this [repository](https://github.com/larylc/More-Chess-Webscraped-Data). You can find the general population live monthly birth data from [United Nations Statistics Division's ](http://data.un.org/Data.aspx?q=birth+month&d=POP&f=tableCode%3a55)
+**Data:** Chess data is from the `all_grandmaster_bdates_bplaces_updated.csv` dataset in this [repository](https://github.com/larylc/More-Chess-Webscraped-Data). You can find the general population live monthly birth data from [United Nations Statistics Division's database](http://data.un.org/Data.aspx?q=birth+month&d=POP&f=tableCode%3a55).
 
+**Methods:** Using the montly data gathered from both data sets, a "broad" season variable was created:
++ Winter Months: January- March
++ Spring Months: April- June
++ Summer Months: July- September
++ Fall Months: October- December
+
+Average seasonal births by countries were then calculated from total seaonal births. 
 

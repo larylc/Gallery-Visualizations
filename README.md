@@ -33,7 +33,7 @@ Static data visualizations from my website's gallery.
 **Methods:** Only 4 year colleges were considered. When the 2 data sources were merged, approixmately 100 colleges had need blind policies. The other 1900 had different financial aid policies. 
 
 #### **"Seasonal Births of Grandmasters vs General Population"** (R)
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/seasonplot.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/season_plot.png)
 
 **Data:** Chess data is from the `all_grandmaster_bdates_bplaces_updated.csv` dataset in this [repository](https://github.com/larylc/More-Chess-Webscraped-Data). You can find the general population live monthly birth data from [United Nations Statistics Division's database](http://data.un.org/Data.aspx?q=birth+month&d=POP&f=tableCode%3a55).
 

@@ -1,6 +1,6 @@
 ## Gallery Visualizations
 
-##[Access My Tableau Public Account](https://public.tableau.com/app/profile/cedric.lary)
+## [Access My Tableau Public Account](https://public.tableau.com/app/profile/cedric.lary)
 
 ### Introduction
 

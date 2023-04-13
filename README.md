@@ -1,5 +1,6 @@
 ## Gallery Visualizations
 
+##[Access My Tableau Public Account](https://public.tableau.com/app/profile/cedric.lary)
 
 ### Introduction
 
@@ -9,7 +10,7 @@ Static data visualizations from my website's gallery.
 
 #### **"What 125+ Years of Temperatures Tell Us About Weather"** (R)
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/weather_plot.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/weather_plot_v1.png)
 
 **Data:** Data was web scraped from the [Rutgers Climate Lab Website](https://climate.rutgers.edu/stateclim_v1/nclimdiv/index.php?stn=NJ00&elem=mint#) which gets its data from the [National Centers for Environmental Information nClimDiv dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00005).
 
@@ -17,7 +18,7 @@ Static data visualizations from my website's gallery.
 
 #### **"Percentiles Reveal Super Grandmaster Specialties"** (R)
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/supergmplot3.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/supergmplot_v1.png)
 
 **Data:** The percentiles were calculated using data gathered from the `masters_table(s)` found in this [repository](https://github.com/larylc/Chess-Webscraping-Projects). The original data is from [FIDE](https://ratings.fide.com/).
 
@@ -26,7 +27,7 @@ Static data visualizations from my website's gallery.
 
 #### **"Who Do We See Attending Need Blind Colleges"** (R)
 
-![](https://github.com/larylc/Gallery-Visualizations/blob/main/needblindplot.png)
+![](https://github.com/larylc/Gallery-Visualizations/blob/main/needblindplot_v1.png)
 
 **Data:** You can find the US Department of Education's College Scorecard [here.](https://collegescorecard.ed.gov/data/) You can find the list of PrepScholar's need blind college list [here](https://blog.prepscholar.com/need-blind-colleges-list). 
 
